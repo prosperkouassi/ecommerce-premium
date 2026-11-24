@@ -1,0 +1,18 @@
+# Contexte du projet
+
+- Nom : [à compléter]
+- Client / marque : [à compléter]
+- Objectif : [à compléter]
+- Public cible : [à compléter]
+- Statut : [démo / préproduction / production]
+- Dépôt GitHub : [à compléter]
+- Hébergement : [à compléter]
+- Stack et versions réelles : [à compléter]
+- Base de données : [à compléter]
+- Charte graphique et références : [à compléter]
+- Pages et parcours : [à compléter]
+- Fonctionnalités validées à préserver : [à compléter]
+- APIs / paiements / livraison : [à compléter]
+- Variables d'environnement (noms seulement, jamais les valeurs) : [à compléter]
+- Commandes de test : [à compléter]
+- Contraintes, décisions et éléments hors périmètre : [à compléter]
